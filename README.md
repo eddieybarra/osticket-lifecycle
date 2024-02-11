@@ -34,3 +34,7 @@ create a ticket
 ![image](https://github.com/eddieybarra/osticket-lifecycle/assets/18490891/f797d465-f2c1-4c8c-9ca4-551749f05f7a)
 
 ![image](https://github.com/eddieybarra/osticket-lifecycle/assets/18490891/c0d338fc-330b-41d8-b59a-da83cdb5020a)
+
+review pirority and assign tickets
+
+![image](https://github.com/eddieybarra/osticket-lifecycle/assets/18490891/7eaeb9ec-2fa6-4312-b825-3d23debe2fa5)
