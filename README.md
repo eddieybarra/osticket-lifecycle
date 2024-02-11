@@ -32,3 +32,5 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 create a ticket
 
 ![image](https://github.com/eddieybarra/osticket-lifecycle/assets/18490891/f797d465-f2c1-4c8c-9ca4-551749f05f7a)
+
+![image](https://github.com/eddieybarra/osticket-lifecycle/assets/18490891/c0d338fc-330b-41d8-b59a-da83cdb5020a)
